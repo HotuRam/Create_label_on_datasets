@@ -8,10 +8,18 @@
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
 # After the Labelled dataset
 <br />
 <br />
+<br />
+<br />
   <img align="left" alt="image" src="https://github.com/HotuRam/Create_label_on_datasets/blob/main/after.png?raw=true" width="1000" height="350" />
+<br />
+<br />
 <br />
 <br />
 <br />
