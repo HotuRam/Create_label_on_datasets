@@ -1,6 +1,7 @@
 # Create_label_on_datasets
 
 ### We change the name of each image 
+folder should be nasted in photos like ...\How_to_Label_dataset\photos\polor_bear
 
 # Before unlabelled dataset
 <br />
