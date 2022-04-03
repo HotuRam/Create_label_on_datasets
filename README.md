@@ -16,7 +16,7 @@ folder should be nasted in photos like ...\How_to_Label_dataset\photos\polor_bea
 #  After the Labelled dataset
 
 <br />
-  <img align="left" alt="image" src="https://github.com/HotuRam/Create_label_on_datasets/blob/main/after.png?raw=true" width="1000" height="350" />
+  <img align="left" alt="image" src="https://github.com/HotuRam/Create_label_on_datasets/blob/main/after.png?raw=true" width="1000" height="300" />
 <br />
 <br />
 <br />
